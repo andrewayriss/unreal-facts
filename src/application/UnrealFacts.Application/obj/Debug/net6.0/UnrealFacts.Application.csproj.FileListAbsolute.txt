@@ -1,0 +1,12 @@
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\bin\Debug\net6.0\UnrealFacts.Application.deps.json
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\bin\Debug\net6.0\UnrealFacts.Application.dll
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\bin\Debug\net6.0\UnrealFacts.Application.pdb
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.csproj.AssemblyReference.cache
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.AssemblyInfo.cs
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.dll
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\refint\UnrealFacts.Application.dll
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\UnrealFacts.Application.pdb
+C:\Users\Andy\source\repos\AndrewAyriss\unreal-facts\src\application\UnrealFacts.Application\obj\Debug\net6.0\ref\UnrealFacts.Application.dll
